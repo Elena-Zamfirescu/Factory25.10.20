@@ -1,0 +1,205 @@
+{
+    "1": {
+        "ID": "339105066290",
+        "nume": "Pavel Marcel",
+        "email": "Pavel.Marcel@Absintus.ro",
+        "varsta_la_angajare": 29,
+        "functie/calificare": "Frigotehnist"
+    },
+    "2": {
+        "ID": "338712219318",
+        "nume": "Nantu Florin",
+        "email": "Nantu.Florin@Absintus.ro",
+        "varsta_la_angajare": 33,
+        "functie/calificare": "Frigotehnist"
+    },
+    "3": {
+        "ID": "558106053720",
+        "nume": "Geovitaci Oana",
+        "email": "Geovitaci.Oana@Absintus.ro",
+        "varsta_la_angajare": 31,
+        "functie/calificare": "Gestionar"
+    },
+    "4": {
+        "ID": "558806157315",
+        "nume": "Dunea Miahela",
+        "email": "Dunea.Miahela@Absintus.ro",
+        "varsta_la_angajare": 32,
+        "functie/calificare": "Gestionar"
+    },
+    "5": {
+        "ID": "117712256313",
+        "nume": "Craciunescu Eugen",
+        "email": "Craciunescu.Eugen@Absintus.ro",
+        "varsta_la_angajare": 43,
+        "functie/calificare": "Manager"
+    },
+    "6": {
+        "ID": "334609031439",
+        "nume": "Jelinek Elfride",
+        "email": "Jelinek.Elfride@Absintus.ro",
+        "varsta_la_angajare": 74,
+        "functie/calificare": "Instalator"
+    },
+    "7": {
+        "ID": "339306036122",
+        "nume": "Ionescu Mirela",
+        "email": "Ionescu.Mirela@Absintus.ro",
+        "varsta_la_angajare": 27,
+        "functie/calificare": "Instalator"
+    },
+    "8": {
+        "ID": "559906039517",
+        "nume": "Gerbea Victor",
+        "email": "Gerbea.Victor@Absintus.ro",
+        "varsta_la_angajare": 21,
+        "functie/calificare": "Gestionar"
+    },
+    "9": {
+        "ID": "558306026896",
+        "nume": "Ionescu Ioana",
+        "email": "Ionescu.Ioana@Absintus.ro",
+        "varsta_la_angajare": 37,
+        "functie/calificare": "Gestionar"
+    },
+    "10": {
+        "ID": "557711021115",
+        "nume": "Radu Mircea",
+        "email": "Radu.Mircea@Absintus.ro",
+        "varsta_la_angajare": 43,
+        "functie/calificare": "Gestionar"
+    },
+    "11": {
+        "ID": "558608025756",
+        "nume": "Gheorgheosu Roxana",
+        "email": "Gheorgheosu.Roxana@Absintus.ro",
+        "varsta_la_angajare": 34,
+        "functie/calificare": "Gestionar"
+    },
+    "12": {
+        "ID": "336603065263",
+        "nume": "Mintoiu Claudiu",
+        "email": "Mintoiu.Claudiu@Absintus.ro",
+        "varsta_la_angajare": 54,
+        "functie/calificare": "Frigotehnist"
+    },
+    "13": {
+        "ID": "338405028534",
+        "nume": "Pirvu Silviu",
+        "email": "Pirvu.Silviu@Absintus.ro",
+        "varsta_la_angajare": 36,
+        "functie/calificare": "Electronist"
+    },
+    "14": {
+        "ID": "338806037826",
+        "nume": "Ghituica Florin",
+        "email": "Ghituica.Florin@Absintus.ro",
+        "varsta_la_angajare": 32,
+        "functie/calificare": "Frigotehnist"
+    },
+    "15": {
+        "ID": "338603269945",
+        "nume": "Mihalcea Alina",
+        "email": "Mihalcea.Alina@Absintus.ro",
+        "varsta_la_angajare": 34,
+        "functie/calificare": "Frigotehnist"
+    },
+    "16": {
+        "ID": "338405024668",
+        "nume": "Tiplea Marius",
+        "email": "Tiplea.Marius@Absintus.ro",
+        "varsta_la_angajare": 36,
+        "functie/calificare": "Electronist"
+    },
+    "17": {
+        "ID": "558806038666",
+        "nume": "Ceaicovschi Diana",
+        "email": "Ceaicovschi.Diana@Absintus.ro",
+        "varsta_la_angajare": 32,
+        "functie/calificare": "Gestionar"
+    },
+    "18": {
+        "ID": "556303037923",
+        "nume": "Chelmu Sergiu",
+        "email": "CHelmu.Sergiu@Absintus.ro",
+        "varsta_la_angajare": 57,
+        "functie/calificare": "Gestionar"
+    },
+    "19": {
+        "ID": "330012097456",
+        "nume": "Margea Mircea",
+        "email": "Margea.Mircea@Absintus.ro",
+        "varsta_la_angajare": 20,
+        "functie/calificare": "Frigotehnist"
+    },
+    "20": {
+        "ID": "558403023552",
+        "nume": "Florea Flavius",
+        "email": "Florea.Flavius@Absintus.ro",
+        "varsta_la_angajare": 36,
+        "functie/calificare": "Gestionar"
+    },
+    "21": {
+        "ID": "559603261801",
+        "nume": "Lunea Paul",
+        "email": "Lunea.Paul@Absintus.ro",
+        "varsta_la_angajare": 24,
+        "functie/calificare": "Gestionar"
+    },
+    "22": {
+        "ID": "336308022390",
+        "nume": "Mihalcea Pavel",
+        "email": "Mihalcea.Pavel@Absintus.ro",
+        "varsta_la_angajare": 57,
+        "functie/calificare": "Instalator"
+    },
+    "23": {
+        "ID": "556603029586",
+        "nume": "Micsuneanu Razvan",
+        "email": "Micsuneanu.Razvan@Absintus.ro",
+        "varsta_la_angajare": 54,
+        "functie/calificare": "Gestionar"
+    },
+    "24": {
+        "ID": "338806038430",
+        "nume": "Constantinescu Emil",
+        "email": "Constantinescu.Emil@Absintus.ro",
+        "varsta_la_angajare": 32,
+        "functie/calificare": "Instalator"
+    },
+    "25": {
+        "ID": "338808124145",
+        "nume": "Paulescu Virgil",
+        "email": "Paulescu.Virgil@Absintus.ro",
+        "varsta_la_angajare": 32,
+        "functie/calificare": "Electronist"
+    },
+    "26": {
+        "ID": "556603113956",
+        "nume": "Popa Mircea",
+        "email": "Popa.Mircea@Absintus.ro",
+        "varsta_la_angajare": 54,
+        "functie/calificare": "Gestionar"
+    },
+    "27": {
+        "ID": "336603037036",
+        "nume": "Raetschi David",
+        "email": "Raetschi.Dacid@Absintus.ro",
+        "varsta_la_angajare": 54,
+        "functie/calificare": "Frigotehnist"
+    },
+    "28": {
+        "ID": "338605063922",
+        "nume": "Pirvu Mihaela",
+        "email": "Pirvu.Mihaela@Absintus.ro",
+        "varsta_la_angajare": 36,
+        "functie/calificare": "Frigotehnist"
+    },
+    "29": {
+        "ID": "559603266230",
+        "nume": "Minea Paul",
+        "email": "Minea.Paul@Absintus.ro",
+        "varsta_la_angajare": 24,
+        "functie/calificare": "Gestionar"
+    }
+}
