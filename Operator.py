@@ -37,6 +37,7 @@ class Operator(Angajat):
                     converted_product = json.load(read_json_file)
                     read_json_file.close()
                     converted_product['productie_totala']["Frigidere"] += numar_FG
+                    converted_product['stoc']["Frigidere"] += numar_FG
                     new_production = json.dumps(converted_product, indent=4)
                     rewrite_json = open("Productie.json", "w")
                     rewrite_json.write(new_production)
@@ -82,6 +83,7 @@ class Operator(Angajat):
                     converted_product = json.load(read_json_file)
                     read_json_file.close()
                     converted_product['productie_totala']["Aragazuri"] += numar_FG
+                    converted_product['stoc']["Aragazuri"] += numar_FG
                     new_production = json.dumps(converted_product, indent=4)
                     rewrite_json = open("Productie.json", "w")
                     rewrite_json.write(new_production)
@@ -130,6 +132,7 @@ class Operator(Angajat):
                     converted_product = json.load(read_json_file)
                     read_json_file.close()
                     converted_product['productie_totala']["Cuptoare cu microunde"] += numar_FG
+                    converted_product['stoc']["Cuptoare cu microunde"] += numar_FG
                     new_production = json.dumps(converted_product, indent=4)
                     rewrite_json = open("Productie.json", "w")
                     rewrite_json.write(new_production)
@@ -137,8 +140,6 @@ class Operator(Angajat):
                     break
                 else:
                     print("Nu aveti suficienta materie prima la dispozitie.")
-
             else:
                 print("Nu aveti calificarea necesara pentru a produce cuptoare cu microunde.\nSolicitati schimbarea calificarii sau productia cu un alt operator.\n")
                 break
-
